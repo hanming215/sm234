@@ -9,4 +9,4 @@ SM4分组密码算法
 
 简单的图形界面
 
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/hanming215/sm234/blob/master/images/ui.jpg)
